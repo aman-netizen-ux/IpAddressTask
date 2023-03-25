@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IpAddressTask</string>
+<!--    <string name="btn_new_activity">Create Book</string>-->
+<!--    <string name="btn_get_http">Get Books</string>-->
+<!--    <string name="splash">Welcome to the Goodreader system</string>-->
+<!--    <string name="btn_user">Users</string>-->
+<!--    <string name="btn_book">Book</string>-->
+<!--    <string name="btn_user_read">View All Users</string>-->
+<!--    <string name="btn_user_create">Create User</string>-->
+<!--    <string name="user_header_1">Welcome to the user management system</string>-->
+</resources>

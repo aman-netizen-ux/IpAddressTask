@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327877081303",
+    "project_id": "ipaddresstask",
+    "storage_bucket": "ipaddresstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327877081303:android:30995ff9f012f661669892",
+        "android_client_info": {
+          "package_name": "com.example.ipaddresstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327877081303-3jh5hdi8260g60e29mpe6ic1eocd1vu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MtbosIU1LL3pgoMW_YFvlzjd__Xa1zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327877081303-3jh5hdi8260g60e29mpe6ic1eocd1vu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
